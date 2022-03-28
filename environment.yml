@@ -9,5 +9,4 @@ dependencies:
     - pandas==0.23.0
     - matplotlib==2.2.2
     - numpy==1.15.0
-    - torch==0.4.1
     - ipykernel
